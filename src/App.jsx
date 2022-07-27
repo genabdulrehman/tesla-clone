@@ -29,7 +29,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Redux
+            Abdul
           </a>
           <span>, </span>
           <a

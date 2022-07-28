@@ -1,14 +1,22 @@
 * {
-    font-family: "Rubik", sans serif;
+    font-family: "Nanum Gothic", sans serif;
     color: #393c41;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+.font-link {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
 body {
     width: 100%;
     overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
 }
 
 @keyframes animateDown {
